@@ -1,0 +1,34 @@
+I have genreated a new bearing faults dataset. The dataset comprises one normal condition and 4 bearing faults dataset (Fault-A,Fault-B,Fault-C and Fault-D). the dataset consist of 5 .lvm files for each fault. the below is the details of dataset columns . 
+Column 0--> Current Phase A
+Column 1--> Current Phase B
+Column 2--> Current Phase C
+Befor Gear Box
+Column 3--> Accelerometer1 X-axis
+Column 4--> Accelerometer1 Y-axis
+Column 5--> Accelerometer1 Z-axis
+After Gear Box
+Column 6--> Accelerometer2 X-axis
+Column 7--> Accelerometer2 Y-axis
+Column 8--> Accelerometer2 Z-axis
+Befor Gear Box
+Column 9--> Sound Sensor1
+Aftr Gear Box
+Column 10--> Sound Sensor2
+Column 11--> Water Level Sensor1 digital input
+Column 12--> Water Level Sensor2 digital input
+Column 13--> Tachometer1 digital input
+Column 14--> Tachometer2 digital input
+Column 15--> Relay1 digital output
+Column 16--> Relay2 digital output
+
+
+Column0 to Column 10 --> Analog Signals
+Column11 to Column 16 --> Digital Signals
+
+Sampling Rate:1600 Hz, Simulation
+################ Total number of samples = (57299,17) 
+1. Sensor_Data_acquistion_No_Condition (Normal Condition): Total no of samples: 15158
+2. Sensor_Data_acquistion - load_2kg (Fault-A): total no of samples: 10574
+3. Sensor_Data_acquistion - load_5kg (Fault-B): total no of samples: 10514
+4. Sensor_Data_acquistion - load_7kg (Fault-C): total no of samples: 10526
+5. Sensor_Data_acquistion - load_10kg (Fault-D): total no of samples: 10527 
