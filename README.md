@@ -1,4 +1,4 @@
-# MIFDFormer-Agent: An Explainable Multimodal Transformer Framework for Cyber-Physical Industrial Fault Diagnosis Using Self-designed Multimodal Industrail Fault Diagnosis and Dataset
+# MIFDFormer-Agent: An Explainable Multimodal Transformer Framework for Cyber-Physical Industrial Fault Diagnosis Using Self-designed Multimodal Industrail Fault Diagnosis Rig and Dataset
 
 
 Muhammad Ahmad Kamran,
