@@ -1,2 +1,8 @@
-# MIFDFormer-Agent
-Official code, dataset, trained models and results of MIFDFormer-Agent
+# MIFDFormer-Agent: An Explainable Multimodal Transformer Framework for Cyber-Physical Industrial Fault Diagnosis Using Self-designed Multimodal Industrail Fault Diagnosis and Dataset
+
+Misha~Urooj~Khan,
+Muhammad~Ahmad~Kamran,
+Muhammad Mohsin Razaqi,
+Muhammad Huzaifa Rahim Malik, 
+Muhammad Umair Ali,
+and Seung~Won~Lee
